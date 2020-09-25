@@ -1,0 +1,23 @@
+{
+  "name": "jayawesome",
+  "version": "1.0.0",
+  "description": "\"# guru\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonycode/guru.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonycode/guru/issues"
+  },
+  "homepage": "https://github.com/jsonycode/guru#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
